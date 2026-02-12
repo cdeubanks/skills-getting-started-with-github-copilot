@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </ul>
           </div>
         `;
+        
 
         activitiesList.appendChild(activityCard);
 
